@@ -9,7 +9,7 @@ Within our community, we
 - and meet new people
 
 
-<img src=""/>
+<img src="https://esisalama.com/assets/img/actualite/img-16052021-142601.jpg"/>
 <!---
 Espace-Esis/Espace-Esis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
